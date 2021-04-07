@@ -86,7 +86,7 @@ c
 c  input  = integer vector of length 10 containing various user-specified 
 c           inputs; see below. 
 c
-c  info   = integer vector of length 6 containing various outputs; 
+c  info   = integer vector of length 6 containing various outputs;
 c           see below. 
 c
 c  rwork  = real work vector with length as follows: 

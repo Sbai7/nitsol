@@ -2,9 +2,9 @@ ALL: bratu cavity pormed
 
 # Macro definitions.
 
-FC 		= gfortran
-FFLAGS 		= -g
-FLINKER 	= gfortran
+FC 		= ifort
+FFLAGS 		= -O3
+FLINKER 	= ifort
 
 NITSOL = ./Nitsol/libnitsol.a
 

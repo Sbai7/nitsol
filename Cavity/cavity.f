@@ -79,7 +79,7 @@ c --------------------------------------------------------------------
       parameter ( MAXKD=200 )
 
       integer     MAXNX,    MAXNP2,         MAXN
-      parameter ( MAXNX=64, MAXNP2=MAXNX+2, MAXN=MAXNX*MAXNX )
+      parameter ( MAXNX=256, MAXNP2=MAXNX+2, MAXN=MAXNX*MAXNX )
 
       integer     LRWORK
 c>>> Alternative parameter statements for different circumstances -- HFW. 
